@@ -43,9 +43,6 @@ Downloads/
 └── notes.txt
 ```
 
-yaml
-Copy
-Edit
 
 ---
 
