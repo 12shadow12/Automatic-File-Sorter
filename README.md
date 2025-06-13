@@ -19,6 +19,7 @@ This tool scans a given directory, detects the file types (based on their extens
 
 **Before sorting:**
 
+```
 Downloads/
 ├── report.pdf
 ├── image1.jpg
@@ -40,6 +41,7 @@ Downloads/
 │ └── movie.mp4
 ├── TXT/
 └── notes.txt
+```
 
 yaml
 Copy
